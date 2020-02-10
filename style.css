@@ -1,0 +1,26 @@
+body{
+   background: rgb(9, 205, 231);
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    font-weight: lighter;
+    text-align: center;
+}
+h3{
+    font-weight: normal;
+}
+h1,h2,h3{
+    color: brown;
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    margin: 10px;
+    padding: 10px;
+}
+.quote{
+    font-style: italic;
+}
