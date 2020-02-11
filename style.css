@@ -1,13 +1,14 @@
 body{
-   background: rgb(9, 205, 231);
+   background: #d5b8ff;
 }
 h1{
     font-weight: bold;
     text-align: center;
 }
 h2{
-    font-weight: lighter;
+    font-weight: bold;
     text-align: center;
+    
 }
 h3{
     font-weight: normal;
@@ -23,6 +24,7 @@ p{
 }
 .quote{
     font-style: italic;
+    text-align: center;
 }
 .description{
     text-align: center;
@@ -41,4 +43,10 @@ p{
     font-family:'Courier New', Courier, monospace;
     font-size: larger;
     font-weight: bold;
+}
+.con{
+    margin: 20px;
+    padding: 20px;
+    border: 4px;
+    text-align: center;
 }
