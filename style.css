@@ -38,6 +38,7 @@ p{
     margin: 0 auto; /* Added */
     float: none; /* Added */
     margin-bottom: 10px; /* Added */
+    clear: both;
 }
 .card-title{
     font-family:'Courier New', Courier, monospace;
@@ -49,4 +50,28 @@ p{
     padding: 20px;
     border: 4px;
     text-align: center;
+}
+.flat{
+    float: right;
+}
+.navbar{
+    background-color: #96281b;
+    text-shadow: black;
+}
+.nav-link,.navbar-brand{
+    color: blanchedalmond;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.ed{
+    clear: both;
+}
+.table{
+    border: crimson;
+    padding: 5px;
+    margin: 5px;
+}
+#row{
+    background-color: lawngreen;
 }
