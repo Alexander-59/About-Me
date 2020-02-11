@@ -24,3 +24,21 @@ p{
 .quote{
     font-style: italic;
 }
+.description{
+    text-align: center;
+    font-style: italic;
+}
+.wc{
+    margin: 50px;
+    text-align: center;
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.card-title{
+    font-family:'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+}
